@@ -1,2 +1,2 @@
-# imab-coder.github.io
+# Blog Application
 My First Application(Blog App)
